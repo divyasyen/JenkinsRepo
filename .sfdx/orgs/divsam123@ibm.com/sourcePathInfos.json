@@ -1,0 +1,51 @@
+{
+  "E:\\JenkinsRepo\\src": {
+    "sourcePath": "E:\\JenkinsRepo\\src",
+    "isDirectory": true,
+    "modifiedTime": 1620224164598,
+    "changeTime": 1620224164598,
+    "contentHash": "1adaa84dc07a16d34ede5b9a70713ff832a0f853",
+    "state": "n",
+    "isArtifactRoot": true,
+    "package": "src"
+  },
+  "E:\\JenkinsRepo\\src\\classes": {
+    "sourcePath": "E:\\JenkinsRepo\\src\\classes",
+    "isDirectory": true,
+    "modifiedTime": 1620224164614,
+    "changeTime": 1620224164614,
+    "contentHash": "58b4e5af9c418b68bd04f5aedad58bf023edb6d9",
+    "state": "n",
+    "package": "src"
+  },
+  "E:\\JenkinsRepo\\src\\classes\\AccountOperations.cls": {
+    "sourcePath": "E:\\JenkinsRepo\\src\\classes\\AccountOperations.cls",
+    "size": 274,
+    "modifiedTime": 1620225534191,
+    "changeTime": 1620225534191,
+    "contentHash": "68d508f4d0bf1d36749e6d39321f47bc8e9795a1",
+    "state": "n",
+    "package": "src",
+    "metadataType": "ApexClass"
+  },
+  "E:\\JenkinsRepo\\src\\classes\\AccountOperations.cls-meta.xml": {
+    "sourcePath": "E:\\JenkinsRepo\\src\\classes\\AccountOperations.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1620225304141,
+    "changeTime": 1620225304141,
+    "contentHash": "5671b8c6e013781e99ef9cffb2a889ec64ac0d22",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "src",
+    "metadataType": "ApexClass"
+  },
+  "E:\\JenkinsRepo": {
+    "sourcePath": "E:\\JenkinsRepo",
+    "isDirectory": true,
+    "modifiedTime": 1620231231136,
+    "changeTime": 1620231231136,
+    "contentHash": "e13adf0fa0812bda6d9d7e285fd502f6404ce527",
+    "state": "n",
+    "isWorkspace": true
+  }
+}

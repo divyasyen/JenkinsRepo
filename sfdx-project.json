@@ -1,0 +1,11 @@
+{
+    "namespace": "",
+    "packageDirectories": [
+        {
+            "path": "src",
+            "default": true
+        }
+    ],
+    "sfdcLoginUrl": "https://ibmcom-f6-dev-ed.my.salesforce.com",
+    "sourceApiVersion": "51.0"
+}
